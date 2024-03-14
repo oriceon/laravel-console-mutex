@@ -1,11 +1,11 @@
 {
-    "name": "srd2010/console-mutex",
+    "name": "oriceon/console-mutex",
     "description": "Mutex for Laravel Console Commands. Fork for Laravel 10.x",
     "keywords": ["laravel", "console", "command", "mutex", "mutex-lock", "semaphore", "locker", "no-overlapping"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/srd2010/laravel-console-mutex/issues",
-        "source": "https://github.com/srd2010/laravel-console-mutex"
+        "issues": "https://github.com/oriceon/laravel-console-mutex/issues",
+        "source": "https://github.com/oriceon/laravel-console-mutex"
     },
     "authors": [{
         "name": "Frank Stuhec",
